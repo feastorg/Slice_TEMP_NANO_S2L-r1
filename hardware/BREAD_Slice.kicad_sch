@@ -5249,7 +5249,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:WS2812-5050-4PIN"
+		(property "Footprint" "KMLib_IC_SMD:WS2812-5050-4PIN"
 			(at 13.97 49.53 0)
 			(effects
 				(font
@@ -5532,7 +5532,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "kml-custom:Thermal Pad"
+		(property "Footprint" "KMLib_Mounting:Thermal Pad"
 			(at 35.8648 97.79 0)
 			(effects
 				(font
