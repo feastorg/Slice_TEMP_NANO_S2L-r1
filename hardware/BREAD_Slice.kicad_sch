@@ -2006,7 +2006,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SparkFun-DiscreteSemi:AP63205"
+		(symbol "KMLib_IC_Power:AP63205WU-7_Buck_Regulator"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -5318,7 +5318,7 @@
 		)
 	)
 	(symbol
-		(lib_id "SparkFun-DiscreteSemi:AP63205")
+		(lib_id "KMLib_IC_Power:AP63205WU-7_Buck_Regulator")
 		(at 35.56 73.66 0)
 		(unit 1)
 		(body_style 1)
@@ -6006,7 +6006,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "KMLib_Mounting:Thermal Pad"
+		(property "Footprint" "KMLib_Mounting:Thermal_Pad"
 			(at 35.8648 97.79 0)
 			(hide yes)
 			(show_name no)
